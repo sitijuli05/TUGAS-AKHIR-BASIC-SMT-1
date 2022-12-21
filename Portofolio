@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siti Juliah Nurlatifah</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body{
+            margin: 0;
+            background-color: white;
+             
+        }
+        header{
+            background-color:white;
+            padding: 20px;
+            text-align: center;
+        }
+        .topnav{
+            overflow: hidden;
+            background-color:aquamarine;
+        }
+        .topnav a {
+            float: left;
+            display: block;
+            color: black;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        .topnav a:hover{
+            background-color: #ddd;
+            color: rgb(223, 15, 178);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tugas Akhir Basicprograming</h1>
+    </header>
+    <div class="topnav">
+        <a href="ABOUT.HTML">About</a>
+        <a href="Cv.jpeg">Download CV</a>
+        <a href="CONTAC.HTML">Contact</a>
+    </div>
+    <br>
+    <div style="text-align: center;">
+        <img src="Liaaa.jpeg" width="200" height="200" style="border-radius: 0%;" >
+        <h1>Siti Juliah Nurlatifah</h1>
+        <p>Web Developer</p>
+        <br>
+        <p>“Saat kamu gagal mencapai impian, jangan pernah berhenti untuk terus
+             mencoba sampai akhirnya tak ada lagi kekuatan untuk mencobanya.”</p>
+    </div>
+    <div>
+        <div style="max-width: 600px; margin: 3em auto;">
+            <table border="2" bordercolor="black">
+                <thead>
+                    <tr style="background-color: aquamarine ;">
+                        <th>Skill</th>
+                        <th>Pengalaman</th>
+                        <th>Pekerjaan</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <ul>
+                                <li>HTML (Expert)</li>
+                                <li>CSS (Beginner)</li>
+                                <li>Javascript (Beginner)</li>
+                            </ul>
+                        </td>
+                        <td>
+                            <ul>
+                                <li>Freelancer di Internet</li>
+                                <li>Leaeder Local Linux Community</li>
+                                <li>Leaeder Local Linux Community</li>
+                            </ul>
+                        </td>
+                        <td>
+                            <ul>
+                                <li>Wirausaha Online Shop</li>
+                            </ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        </table>
+    </div>
+</body>
+</html>
